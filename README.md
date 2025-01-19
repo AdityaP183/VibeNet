@@ -1,6 +1,4 @@
-<h1 align="center">✨ Next.js Full Course - Build a Social App ✨</h1>
-
-![Demo App]()
+# VibeNet
 
 Highlights:
 
@@ -13,7 +11,7 @@ Highlights:
 - 🛣️ Dynamic & Static Routes
 - 🎨 Styling with Tailwind & Shadcn
 - 🔒 Authentication & Authorization
-- 📤 File Uploads with UploadThing
+- 📤 File Uploads with [UploadThing](https://uploadthing.com)
 - 🗃️ Database Integration with Prisma
 - 🚀 Server Actions & Forms
 - ⚡ Optimistic Updates
